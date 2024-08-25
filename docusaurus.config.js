@@ -7,13 +7,13 @@ const config = {
   titleDelimiter: '-',
   url: 'http://www.zy-wan.top',
   baseUrl: '/',
-  favicon: 'https://s21.ax1x.com/2024/08/21/pAiKoOP.jpg',
+  favicon: 'https://pic.imgdb.cn/item/66cba8a2d9c307b7e9af4e79.jpg',
   organizationName: 'jl',
   projectName: 'blog',
   tagline: '挖掘数据爱好者',
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
-    image: 'https://s21.ax1x.com/2024/08/21/pAiKoOP.jpg',
+    image: 'https://pic.imgdb.cn/item/66cba8a2d9c307b7e9af4e79.jpg',
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
@@ -39,8 +39,8 @@ const config = {
       title: '资源挖掘博客',
       logo: {
         alt: '资源挖掘博客',
-        src: 'https://s21.ax1x.com/2024/08/21/pAiKoOP.jpg',
-        srcDark: 'https://s21.ax1x.com/2024/08/21/pAiKoOP.jpg',
+        src: 'https://pic.imgdb.cn/item/66cba8a2d9c307b7e9af4e79.jpg',
+        srcDark: 'https://pic.imgdb.cn/item/66cba8a2d9c307b7e9af4e79.jpg',
       },
       hideOnScroll: true,
       items: [

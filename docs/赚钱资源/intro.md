@@ -4,7 +4,7 @@ title: 赚钱资源前言
 sidebar_label: 写在前面
 ---
 
-![](https://s21.ax1x.com/2024/08/21/pAid1qe.png)
+![](./img/1.png)
 
 
 ## 赚钱资源目录:
