@@ -16,8 +16,15 @@ const sidebars = {
     前言: ["赚钱资源/赚钱资源-intro"],
     APP赚钱: ["赚钱资源/APP赚钱/rentuibang",
              "赚钱资源/APP赚钱/万灵部落",
-             "赚钱资源/APP赚钱/mota-wukong"
-             
+             "赚钱资源/APP赚钱/mota-wukong",
+             "赚钱资源/APP赚钱/Goplaylife",
+             "赚钱资源/APP赚钱/TimeGroceryStore",
+             "赚钱资源/APP赚钱/Pigfarmingforall",
+             "赚钱资源/APP赚钱/FriendsoftheEarth",
+             "赚钱资源/APP赚钱/TheSolitaryGodofKendo",
+             "赚钱资源/APP赚钱/Style",
+             "赚钱资源/APP赚钱/HeroQLegend",
+             "赚钱资源/APP赚钱/LegendofGangda",
     ]
   },
   学习专区:{
