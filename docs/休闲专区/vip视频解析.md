@@ -1,5 +1,5 @@
 ---
-id: vip视频解析
+id: vip
 title: vip视频解析
 sidebar_label: vip视频解析
 ---
