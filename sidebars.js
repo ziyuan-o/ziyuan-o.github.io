@@ -29,7 +29,7 @@ const sidebars = {
   },
   学习专区:{
     前言: ["学习专区/学习专区-intro"],
-    python: ["学习专区/python/pycharn-jihuo"]
+    
 
   },
   营销专区:{
