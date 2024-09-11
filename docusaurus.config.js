@@ -71,7 +71,11 @@ const config = {
           label: "办公软件",
           position: "right",
         },
-  
+        {
+          to: "docs/休闲专区/休闲专区-intro",
+          label: "休闲专区",
+          position: "right",
+        },
       ],
     },
     footer: {
@@ -113,6 +117,16 @@ const config = {
             {
               label: '办公软件',
               to: 'docs/办公专区/办公专区-intro',
+            }
+           
+          ],
+        },
+        {
+          title: '休闲专区',
+          items: [
+            {
+              label: '休闲',
+              to: 'docs/休闲专区/休闲专区-intro',
             }
            
           ],
