@@ -4,7 +4,7 @@ title: 学习专区前言
 sidebar_label: 写在前面
 ---
 
-![](学习.png)
+![](https://pic.imgdb.cn/item/66ede570f21886ccc0984c96.png)
 
 ## 内容目录:
 1. python

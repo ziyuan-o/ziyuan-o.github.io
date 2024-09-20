@@ -13,27 +13,13 @@ const sidebars = {
     前言: ["办公专区/办公专区-intro"]
   },
   赚钱资源:{
-    前言: ["赚钱资源/赚钱资源-intro"],
-    APP赚钱: ["赚钱资源/APP赚钱/rentuibang",
-             "赚钱资源/APP赚钱/万灵部落",
-             "赚钱资源/APP赚钱/mota-wukong",
-             "赚钱资源/APP赚钱/Goplaylife",
-             "赚钱资源/APP赚钱/TimeGroceryStore",
-             "赚钱资源/APP赚钱/Pigfarmingforall",
-             "赚钱资源/APP赚钱/FriendsoftheEarth",
-             "赚钱资源/APP赚钱/TheSolitaryGodofKendo",
-             "赚钱资源/APP赚钱/Style",
-             "赚钱资源/APP赚钱/HeroQLegend",
-             "赚钱资源/APP赚钱/LegendofGangda",
-    ]
+    前言: ["赚钱资源/赚钱资源-intro"]
+    
   },
   学习专区:{
     前言: ["学习专区/学习专区-intro"
-    ],
-    python: ["学习专区/python/python-intro",
-            "学习专区/python/pycharn-jihuo"
-
     ]
+    
     
 
   },

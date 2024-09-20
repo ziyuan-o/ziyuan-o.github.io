@@ -4,7 +4,7 @@ title: 营销专区前言
 sidebar_label: 写在前面
 ---
 
-![](营销.png)
+![](https://pic.imgdb.cn/item/66ede541f21886ccc0983945.png)
 
 ## 营销目录:
 1. 微博
