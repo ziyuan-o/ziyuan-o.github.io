@@ -13,7 +13,12 @@ const sidebars = {
     前言: ["办公专区/办公专区-intro"]
   },
   赚钱资源:{
-    前言: ["赚钱资源/赚钱资源-intro"]
+    前言: ["赚钱资源/赚钱资源-intro"],
+    高收益项目HTIP: ["赚钱资源/hyip/hyip-intro",
+                    "赚钱资源/hyip/GoogleAuthenticator",
+                    "赚钱资源/hyip/Googleplay",
+                    "赚钱资源/hyip/aitimart"
+    ]
     
   },
   学习专区:{
