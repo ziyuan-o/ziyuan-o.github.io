@@ -5,15 +5,15 @@ const config = {
   onBrokenLinks: 'ignore',
   title: '资源挖掘博客',
   titleDelimiter: '-',
-  url: 'http://www.zy-wan.top',
+  url: 'http://www.zy-wan.com',
   baseUrl: '/',
-  favicon: 'https://pic.imgdb.cn/item/66cba8a2d9c307b7e9af4e79.jpg',
+  favicon: 'https://pic1.imgdb.cn/item/6806ab1758cb8da5c8bd377f.jpg',
   organizationName: 'jl',
   projectName: 'blog',
   tagline: '挖掘数据爱好者',
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
-    image: 'https://pic.imgdb.cn/item/66cba8a2d9c307b7e9af4e79.jpg',
+    image: 'https://pic1.imgdb.cn/item/6806ab1758cb8da5c8bd377f.jpg',
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
@@ -39,8 +39,8 @@ const config = {
       title: '资源挖掘博客',
       logo: {
         alt: '资源挖掘博客',
-        src: 'https://pic.imgdb.cn/item/66cba8a2d9c307b7e9af4e79.jpg',
-        srcDark: 'https://pic.imgdb.cn/item/66cba8a2d9c307b7e9af4e79.jpg',
+        src: 'https://pic1.imgdb.cn/item/6806ab1758cb8da5c8bd377f.jpg',
+        srcDark: 'https://pic1.imgdb.cn/item/6806ab1758cb8da5c8bd377f.jpg',
       },
       hideOnScroll: true,
       items: [
@@ -188,7 +188,7 @@ const config = {
       config: {},
     },
     matomo: {
-      matomoUrl: 'http://www.zy-wan.top',
+      matomoUrl: 'http://www.zy-wan.com',
       siteId: '1',
       phpLoader: 'matomo.php',
       jsLoader: 'matomo.js',
