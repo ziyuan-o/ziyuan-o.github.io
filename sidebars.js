@@ -9,33 +9,26 @@
  */
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  办公软件:{
-    前言: ["办公专区/办公专区-intro"]
-  },
-  赚钱资源:{
-    前言: ["赚钱资源/赚钱资源-intro"],
-    高收益项目HTIP: ["赚钱资源/hyip/hyip-intro",
-                    "赚钱资源/hyip/GoogleAuthenticator",
-                    "赚钱资源/hyip/Googleplay",
-                    "赚钱资源/hyip/aitimart"
-    ]
-    
-  },
-  学习专区:{
-    前言: ["学习专区/学习专区-intro"
-    ]
-    
-    
+  赚钱资源:[],
+  休闲专区:[
+    "休闲专区/vip-video",
+    {
+      label: '黄色视频',
+      type: 'category',
+      link: {
+        type: 'generated-index',
+      },
+      items: [
+        '休闲专区/黄色视频/yellow-intro',
+        '休闲专区/黄色视频/yellow-video'
+      ],
+    }
+  ]
+ 
+  }
 
-  },
-  营销专区:{
-    前言: ["营销专区/营销专区-intro"]
-  },
-  休闲专区:{
-    前言: ["休闲专区/休闲专区-intro"],
-    vip视频解析: ["休闲专区/vip-video"]
-  },
 
-}
+
+
 
 module.exports = sidebars

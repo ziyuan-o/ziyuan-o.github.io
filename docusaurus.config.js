@@ -72,9 +72,20 @@ const config = {
           position: "right",
         },
         {
-          to: "docs/休闲专区/休闲专区-intro",
           label: "休闲专区",
           position: "right",
+          items: [
+            {
+              label: 'VIP视频解析',
+              to: 'docs/休闲专区/vip-video',
+            },
+            {
+              label: '黄色视频',
+              to: 'docs/休闲专区/黄色视频/yellow-intro',
+            }
+            
+          ],
+          
         },
       ],
     },
