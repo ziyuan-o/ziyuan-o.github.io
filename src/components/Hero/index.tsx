@@ -95,18 +95,18 @@ function Hero() {
                 </Link>
               ),
               project: (
-                <Link to="docs/营销专区/营销专区-intro">
-                  <Translate id="hompage.hero.project">营销资源</Translate>
+                <Link to="docs/休闲专区/黄色视频/yellow-video">
+                  <Translate id="hompage.hero.project">黄色视频</Translate>
                 </Link>
               ),
               link: (
-                <Link to="docs/学习专区/学习专区-intro">
-                  <Translate id="hompage.hero.link">学习资源</Translate>
+                <Link to="docs/休闲专区/vip-video">
+                  <Translate id="hompage.hero.link">VIP视频解析</Translate>
                 </Link>
               ),
               idea: (
-                <Link to="docs/办公专区/办公专区-intro">
-                  <Translate id="hompage.hero.idea">办公资源</Translate>
+                <Link to="docs/休闲专区/黄色视频/yellow-video">
+                  <Translate id="hompage.hero.idea">黄色视频</Translate>
                 </Link>
               ),
             }}

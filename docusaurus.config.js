@@ -55,21 +55,21 @@ const config = {
           position: "right",
     
         },
+        
         {
-          to: "docs/营销专区/营销专区-intro",
-          label: "营销专区",
+          label: "软件仓库",
           position: "right",
-         
-        },
-        {
-          to: "docs/学习专区/学习专区-intro",
-          label: "学习专区",
-          position: "right",
-        },
-        {
-          to: "docs/办公专区/办公专区-intro",
-          label: "办公软件",
-          position: "right",
+          items: [
+            {
+              label: 'VPN软件',
+              to: 'docs/软件仓库/VPN软件/艾林克',
+            },
+            {
+              label: '办公软件',
+              to: 'docs/办公专区/办公专区-intro',
+            }
+            
+          ],
         },
         {
           label: "休闲专区",

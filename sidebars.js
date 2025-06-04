@@ -20,7 +20,22 @@ const sidebars = {
       },
       items: [
         '休闲专区/黄色视频/yellow-intro',
-        '休闲专区/黄色视频/yellow-video'
+        '休闲专区/黄色视频/yellow-video',
+        '休闲专区/黄色视频/yellow-daohang'
+      ],
+    }
+  ],
+  软件仓库:[
+    {
+      label: 'VPN软件',
+      type: 'category',
+      link: {
+        type: 'generated-index',
+      },
+      items: [
+        '软件仓库/VPN软件/艾林克',
+        '软件仓库/VPN软件/安易'
+        
       ],
     }
   ]
