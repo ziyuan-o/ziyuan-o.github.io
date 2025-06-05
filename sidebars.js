@@ -12,6 +12,7 @@ const sidebars = {
   赚钱资源:[],
   休闲专区:[
     "休闲专区/vip-video",
+    "休闲专区/M3U8-video",
     {
       label: '黄色视频',
       type: 'category',
@@ -33,11 +34,38 @@ const sidebars = {
         type: 'generated-index',
       },
       items: [
+        '软件仓库/VPN软件/vpn',
         '软件仓库/VPN软件/艾林克',
         '软件仓库/VPN软件/安易'
         
       ],
+    },
+    {
+      label: 'win软件',
+      type: 'category',
+      link: {
+        type: 'generated-index',
+      },
+      items: [
+        '软件仓库/win软件/windows',
+        '软件仓库/win软件/win-office',
+        '软件仓库/win软件/win-game',
+        '软件仓库/win软件/win-system',
+      ],
+    },
+    {
+      label: '安卓软件',
+      type: 'category',
+      link: {
+        type: 'generated-index',
+      },
+      items: [
+        '软件仓库/安卓软件/Android',
+        '软件仓库/安卓软件/and-app',
+        '软件仓库/安卓软件/and-tv',
+      ],
     }
+    
   ]
  
   }

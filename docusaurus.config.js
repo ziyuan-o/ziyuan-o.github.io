@@ -62,12 +62,16 @@ const config = {
           items: [
             {
               label: 'VPN软件',
-              to: 'docs/软件仓库/VPN软件/艾林克',
+              to: 'docs/软件仓库/VPN软件/vpn',
             },
             {
-              label: '办公软件',
-              to: 'docs/办公专区/办公专区-intro',
-            }
+              label: 'win软件',
+              to: 'docs/软件仓库/win软件/windows',
+            },
+            {
+              label: '安卓软件',
+              to: 'docs/软件仓库/安卓软件/Android',
+            },
             
           ],
         },
@@ -78,6 +82,10 @@ const config = {
             {
               label: 'VIP视频解析',
               to: 'docs/休闲专区/vip-video',
+            },
+            {
+              label: 'm3u8播放器',
+              to: 'docs/休闲专区/M3U8-video',
             },
             {
               label: '黄色视频',
