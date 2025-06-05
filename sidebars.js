@@ -10,7 +10,7 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   HYIP:[
-    '赚钱资源/HYIP/hyip-intro',
+    'money/HYIP/hyip-intro',
     {
       label: '新人必看',
       type: 'category',
@@ -18,16 +18,16 @@ const sidebars = {
         type: 'generated-index',
       },
       items: [
-        '赚钱资源/HYIP/新人必看/hyip-start',
-        '赚钱资源/HYIP/新人必看/hyip-skamopad',
-        '赚钱资源/HYIP/新人必看/hyip-suitable',
-        '赚钱资源/HYIP/新人必看/hyip-deposit',
-        '赚钱资源/HYIP/新人必看/hyip-diversity',
-        '赚钱资源/HYIP/新人必看/hyip-Strategy',
-        '赚钱资源/HYIP/新人必看/hyip-dictionary',
-        '赚钱资源/HYIP/新人必看/hyip-invest',
-        '赚钱资源/HYIP/新人必看/hyip-project',
-        '赚钱资源/HYIP/新人必看/hyip-question',
+        'money/HYIP/新人必看/hyip-start',
+        'money/HYIP/新人必看/hyip-skamopad',
+        'money/HYIP/新人必看/hyip-suitable',
+        'money/HYIP/新人必看/hyip-deposit',
+        'money/HYIP/新人必看/hyip-diversity',
+        'money/HYIP/新人必看/hyip-Strategy',
+        'money/HYIP/新人必看/hyip-dictionary',
+        'money/HYIP/新人必看/hyip-invest',
+        'money/HYIP/新人必看/hyip-project',
+        'money/HYIP/新人必看/hyip-question',
       ],
     },
     {
@@ -37,7 +37,7 @@ const sidebars = {
         type: 'generated-index',
       },
       items: [
-        '赚钱资源/HYIP/优质项目/hyip-aitimart',
+        'money/HYIP/优质项目/hyip-aitimart',
         
       ],
     },
@@ -48,7 +48,7 @@ const sidebars = {
         type: 'generated-index',
       },
       items: [
-        '赚钱资源/HYIP/审核项目/hyip-aonis',
+        'money/HYIP/审核项目/hyip-aonis',
         
       ],
     },
@@ -59,14 +59,14 @@ const sidebars = {
         type: 'generated-index',
       },
       items: [
-        '赚钱资源/HYIP/电子钱包/wallet-Huobi',
+        'money/HYIP/电子钱包/wallet-Huobi',
         
       ],
     }
   ],
   APP赚钱:[
-    '赚钱资源/APP赚钱/app-intro',
-    '赚钱资源/APP赚钱/rentuibang',
+    'money/APP赚钱/app-intro',
+    'money/APP赚钱/rentuibang',
   ],
   休闲专区:[
     "休闲专区/vip-video",

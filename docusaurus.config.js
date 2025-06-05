@@ -55,11 +55,11 @@ const config = {
           items: [
             {
               label: 'APP赚钱',
-              to: 'docs/赚钱资源/APP赚钱/app-intro',
+              to: 'docs/money/APP赚钱/app-intro',
             },
             {
               label: 'HYIP',
-              to: 'docs/赚钱资源/HYIP/hyip-intro',
+              to: 'docs/money/HYIP/hyip-intro',
             },
            
             
@@ -116,7 +116,7 @@ const config = {
           items: [
             {
               label: 'HYIP',
-              to: 'docs/赚钱资源/HYIP/hyip-intro',
+              to: 'docs/money/HYIP/hyip-intro',
             }
           ]
         },
