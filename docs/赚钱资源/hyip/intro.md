@@ -1,7 +1,8 @@
 ---
 id: hyip-intro
-title: 高收益项目前言
-sidebar_label: 写在前面
+title: HYIP是什么
+sidebar_label: HYIP是什么
+description: hyip是高收益投资
 ---
 
 ![](https://pic.imgdb.cn/item/66f1dfbdf21886ccc03a66ab.jpg)

@@ -50,10 +50,20 @@ const config = {
           position: 'right',
         },
         {
-          to: "docs/赚钱资源/赚钱资源-intro",
           label: "赚钱资源",
           position: "right",
-    
+          items: [
+            {
+              label: 'APP赚钱',
+              to: 'docs/赚钱资源/APP赚钱/app-intro',
+            },
+            {
+              label: 'HYIP',
+              to: 'docs/赚钱资源/HYIP/hyip-intro',
+            },
+           
+            
+          ],
         },
         
         {
@@ -105,37 +115,43 @@ const config = {
           title: '赚钱资源',
           items: [
             {
-              label: '赚钱资源',
-              to: 'docs/赚钱资源/赚钱资源-intro',
+              label: 'HYIP',
+              to: 'docs/赚钱资源/HYIP/hyip-intro',
             }
           ]
         },
+        
         {
-          title: '营销专区',
+          title: '软件仓库',
           items: [
             {
-              label: '营销专区',
-              to: 'docs/营销专区/营销专区-intro',
-            }
-           
-            
+              label: 'VPN软件',
+              to: 'docs/软件仓库/VPN软件/vpn',
+            },
+            {
+              label: 'win软件',
+              to: 'docs/软件仓库/win软件/windows',
+            },
+            {
+              label: '安卓软件',
+              to: 'docs/软件仓库/安卓软件/Android',
+            },
           ],
         },
         {
-          title: '学习专区',
+          title: '休闲专区',
           items: [
             {
-              label: '学习专区',
-              to: 'docs/学习专区/学习专区-intro',
-            }
-          ],
-        },
-        {
-          title: '办公专区',
-          items: [
+              label: 'VIP视频解析',
+              to: 'docs/休闲专区/vip-video',
+            },
             {
-              label: '办公软件',
-              to: 'docs/办公专区/办公专区-intro',
+              label: 'm3u8播放器',
+              to: 'docs/休闲专区/M3U8-video',
+            },
+            {
+              label: '黄色视频',
+              to: 'docs/休闲专区/黄色视频/yellow-intro',
             }
            
           ],
@@ -152,10 +168,7 @@ const config = {
               label: 'QQ:3812263050',
               to: '/',
             },
-            {
-              label: '微信公众号:资源整集',
-              to: '/',
-            },
+            
            
           ],
         },

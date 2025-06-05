@@ -1,12 +1,8 @@
 ---
-slug: aitimart
+id: hyip-aitimart
 title: aitimart
-date: 2025-09-24
-author: hyip
-author_title: 资源挖掘博客
-author_image_url: https://pic1.imgdb.cn/item/6806ab1758cb8da5c8bd377f.jpg
-tags: [hyip, 高收益投资]
-keywords: [hyip, 高收益投资 ]
+sidebar_label: aitimart
+description: 每天1% 复利 随时提取存款
 ---
 
 ## AiTi Mart——国际数字存储平台

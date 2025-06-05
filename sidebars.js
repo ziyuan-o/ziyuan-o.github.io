@@ -9,7 +9,65 @@
  */
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  赚钱资源:[],
+  HYIP:[
+    '赚钱资源/HYIP/hyip-intro',
+    {
+      label: '新人必看',
+      type: 'category',
+      link: {
+        type: 'generated-index',
+      },
+      items: [
+        '赚钱资源/HYIP/新人必看/hyip-start',
+        '赚钱资源/HYIP/新人必看/hyip-skamopad',
+        '赚钱资源/HYIP/新人必看/hyip-suitable',
+        '赚钱资源/HYIP/新人必看/hyip-deposit',
+        '赚钱资源/HYIP/新人必看/hyip-diversity',
+        '赚钱资源/HYIP/新人必看/hyip-Strategy',
+        '赚钱资源/HYIP/新人必看/hyip-dictionary',
+        '赚钱资源/HYIP/新人必看/hyip-invest',
+        '赚钱资源/HYIP/新人必看/hyip-project',
+        '赚钱资源/HYIP/新人必看/hyip-question',
+      ],
+    },
+    {
+      label: '优质项目',
+      type: 'category',
+      link: {
+        type: 'generated-index',
+      },
+      items: [
+        '赚钱资源/HYIP/优质项目/hyip-aitimart',
+        
+      ],
+    },
+    {
+      label: '审核项目',
+      type: 'category',
+      link: {
+        type: 'generated-index',
+      },
+      items: [
+        '赚钱资源/HYIP/审核项目/hyip-aonis',
+        
+      ],
+    },
+    {
+      label: '电子钱包',
+      type: 'category',
+      link: {
+        type: 'generated-index',
+      },
+      items: [
+        '赚钱资源/HYIP/电子钱包/wallet-Huobi',
+        
+      ],
+    }
+  ],
+  APP赚钱:[
+    '赚钱资源/APP赚钱/app-intro',
+    '赚钱资源/APP赚钱/rentuibang',
+  ],
   休闲专区:[
     "休闲专区/vip-video",
     "休闲专区/M3U8-video",
@@ -36,8 +94,8 @@ const sidebars = {
       items: [
         '软件仓库/VPN软件/vpn',
         '软件仓库/VPN软件/艾林克',
-        '软件仓库/VPN软件/安易'
-        
+        '软件仓库/VPN软件/安易',
+        '软件仓库/VPN软件/快连'
       ],
     },
     {

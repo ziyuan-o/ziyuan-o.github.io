@@ -1,10 +1,10 @@
 ---
 slug: link3
 title: link3
-date: 2024-08-10
+date: 2025-08-08
 author: 建站
 author_title: 资源挖掘博客
-author_image_url: https://cdn-thumbs.imagevenue.com/51/81/5f/ME18VMNX_t.jpg
+author_image_url: https://pic1.imgdb.cn/item/6806ab1758cb8da5c8bd377f.jpg
 tags: [网站, 资源]
 keywords: [学习资源, 建站 ]
 ---
