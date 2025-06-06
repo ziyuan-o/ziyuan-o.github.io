@@ -12,6 +12,16 @@ description: windows游戏
 ### 博主比较佛性！`不定时更新！`要是有需要看的资源联系博主！
 :::
 
+<iframe src="https://cdn.cloudflare.steamstatic.com/steam/apps/256897211/movie480_vp9.webm?t=1658365221" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+### 《信长之野望：新生》威力加强版
+v1.1.6|容量26.9GB|官方简体中文|支持键盘.鼠标|赠多项修改器    
+信长之野望：新生》是一款战争类策略游戏，扮演战国大名，可以给予功臣们领地，获得领地的家臣会自行判断如何发展城下町及领地，并在发生武装冲突时率领军队出战。
+
+## [`下载链接`](https://pan.quark.cn/s/3302ccfc23a1)
+
+
+
 ![](https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1550190/b33f6ccb468029c172ec17aa8596d1ef46decae1/ss_b33f6ccb468029c172ec17aa8596d1ef46decae1.1920x1080.jpg)
 
 ### 1.《末日建造者》v1.0001中文版

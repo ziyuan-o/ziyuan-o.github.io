@@ -61,7 +61,10 @@ const config = {
               label: 'HYIP',
               to: 'docs/money/HYIP/hyip-intro',
             },
-           
+            {
+              label: '娱乐赌场',
+              to: 'docs/money/casino/casino-intro',
+            },
             
           ],
         },
@@ -114,6 +117,10 @@ const config = {
         {
           title: '赚钱资源',
           items: [
+            {
+              label: 'APP赚钱',
+              to: 'docs/money/APP赚钱/app-intro',
+            },
             {
               label: 'HYIP',
               to: 'docs/money/HYIP/hyip-intro',

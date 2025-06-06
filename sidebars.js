@@ -68,6 +68,10 @@ const sidebars = {
     'money/APP赚钱/app-intro',
     'money/APP赚钱/rentuibang',
   ],
+  娱乐赌场:[
+    'money/casino/casino-intro',
+    
+  ],
   休闲专区:[
     "休闲专区/vip-video",
     "休闲专区/M3U8-video",
