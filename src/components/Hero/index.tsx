@@ -100,8 +100,8 @@ function Hero() {
                 </Link>
               ),
               link: (
-                <Link to="docs/休闲专区/vip-video">
-                  <Translate id="hompage.hero.link">VIP视频解析</Translate>
+                <Link to="docs/软件仓库/win软件/win-game">
+                  <Translate id="hompage.hero.link">win游戏</Translate>
                 </Link>
               ),
               idea: (
