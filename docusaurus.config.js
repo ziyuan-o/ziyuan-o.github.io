@@ -61,10 +61,7 @@ const config = {
               label: 'HYIP',
               to: 'docs/money/HYIP/hyip-intro',
             },
-            {
-              label: '娱乐赌场',
-              to: 'docs/money/casino/casino-intro',
-            },
+            
             
           ],
         },
