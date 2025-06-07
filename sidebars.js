@@ -38,7 +38,7 @@ const sidebars = {
       },
       items: [
         'money/HYIP/优质项目/hyip-aitimart',
-        
+        'money/HYIP/优质项目/hyip-selwix'
       ],
     },
     {
