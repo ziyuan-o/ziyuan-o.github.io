@@ -1,8 +1,8 @@
 ---
 id: hyip-selwix
-title: selwix
-sidebar_label: selwix
-description: 每天1.5% 最小$15
+title: selwix观望中
+sidebar_label: selwix观望中
+description: 每天1.5% 最小$15  观望中
 ---
 
 ![](https://pic1.imgdb.cn/item/684453f058cb8da5c8395418.png)

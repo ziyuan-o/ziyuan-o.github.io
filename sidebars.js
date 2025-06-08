@@ -38,7 +38,7 @@ const sidebars = {
       },
       items: [
         'money/HYIP/优质项目/hyip-aitimart',
-        'money/HYIP/优质项目/hyip-selwix'
+        
       ],
     },
     {
@@ -48,8 +48,9 @@ const sidebars = {
         type: 'generated-index',
       },
       items: [
-        'money/HYIP/审核项目/hyip-aonis',
-        
+        'money/HYIP/审核项目/hyip-ai-btse',
+        'money/HYIP/审核项目/hyip-gentius',
+        'money/HYIP/审核项目/hyip-selwix'
       ],
     },
     {
@@ -84,6 +85,8 @@ const sidebars = {
       items: [
         '休闲专区/黄色视频/yellow-intro',
         '休闲专区/黄色视频/yellow-video',
+        '休闲专区/黄色视频/yellow-Anchor',
+        '休闲专区/黄色视频/yellow-Kitty',
         '休闲专区/黄色视频/yellow-daohang'
       ],
     }
