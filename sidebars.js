@@ -50,6 +50,8 @@ const sidebars = {
       items: [
         'money/HYIP/审核项目/hyip-ai-btse',
         'money/HYIP/审核项目/hyip-gentius',
+        'money/HYIP/审核项目/hyip-aerogame',
+        'money/HYIP/审核项目/hyip-luckgalaxy',
         'money/HYIP/审核项目/hyip-selwix'
       ],
     },
