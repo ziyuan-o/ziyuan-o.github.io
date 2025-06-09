@@ -87,6 +87,7 @@ const sidebars = {
         '休闲专区/黄色视频/yellow-video',
         '休闲专区/黄色视频/yellow-Anchor',
         '休闲专区/黄色视频/yellow-Kitty',
+        '休闲专区/黄色视频/yellow-Ashe',
         '休闲专区/黄色视频/yellow-daohang'
       ],
     }

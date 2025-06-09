@@ -12,6 +12,49 @@ description: windows游戏
 ### 博主比较佛性！`不定时更新！`要是有需要看的资源联系博主！
 :::
 
+
+
+<iframe src="https://media.st.dl.eccdnx.com/steam/apps/256873177/movie480_vp9.webm?t=1644840797" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+### 《消逝的光芒2：人与仁之战》终极版
+版本介绍
+v1.22.5终极版|整合全DLC|容量71.8GB|官方简体中文|支持键盘.鼠标.手柄|赠多项修改器
+
+《病毒获胜了，文明退回了黑暗时代。作为人类最后的堡垒之一，“都市”正处在崩溃的边缘。运用你的敏捷和战斗技巧活下去，并重塑这个世界。你的选择意义重大。
+
+## [`下载链接`](https://pan.quark.cn/s/6764dcdbabb0)
+
+
+
+
+<iframe src="https://bizcommon.alicdn.com/79905c3e7bff0ec3/CXmAxoqKGrMtZN6sibe/ltKknAwpCYAu5HhMILk_351572534517_mp4_264_hd_0_fs_taobao.mp4?biz=taopai-2ef0d8f26bfee5d7&t=215041aa17494818830204934e101c&t=215041aa17494818830204934e101c&b=taopai&p=cloudvideo_http_pc_taopai_98985671" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+### 《杀手3》v3.230豪华版
+版本介绍
+OPTIONS-LANGUAGE-TEXT LANGUAGE-SIMPLIFIED CHINESE
+
+《杀手3》是由丹麦游戏开发商IO Interactive着手制作《杀手》三部曲的最后一部作品。本作将会让玩家重新变成“杀手47”，47是一位无情的职业杀手，这次这次必须要完成职业生涯中最重要的合同。总之，新作中47和他周围的世界将会永远改变。
+
+## [`下载链接`](https://pan.quark.cn/s/f58dd1b0f4aa)
+
+
+
+
+
+
+<iframe src="https://trts.baishancdnx.cn/xdispatchb628382e968aca93/media.st.dl.eccdnx.com/steam/apps/256859757/movie480_vp9.webm?t=1636489104&bsreqid=36244e1e5c73ff3c0b80ed7b584cb474&DPhost=trts.baishancdnx.cn" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+### 《极限竞速：地平线5》v1.685.421顶级版
+版本介绍
+v1.685.421顶级版|容量176GB|官方简体中文|支持键盘.鼠标.手柄|赠全车辆收藏.原厂调教涂装.剧情故事全三星.DLC全通存档|赠V10联机补丁 
+
+《极限竞速：地平线5》是由微软发行的一款赛车竞速游戏，也是地平线系列的最新作品。不同于正传Foza系列，地平线系列的拟真元素要少了许多，重心更加偏向于街车与自由度方面。操作手感上也更轻量化，更加的爽快和刺激。
+
+## [`下载链接`](https://pan.quark.cn/s/3c6f157efa44)
+
+
+
+
 <iframe src="https://video.cdn.queniuqe.com/store_trailers/257121063/movie_max_vp9.webm?t=1743700420" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 ### 《最后生还者2：重制版》中文版
