@@ -13,15 +13,15 @@ keywords: [hyip, 高收益投资 ]
 
 ![](https://aitimart.live/images/slide/0x1.en.jpg)
 
-> ♟️数字存管平台[*AitiMart*](https://aitimart.com/new-account/?code=1344696906597400)取得了真正的全球性成功，因为它保证所有客户[每天获得1%](../优质项目/aitimart/aitimart-calculate)的。    
-> 这项收费标准独一无二，因为[*AitiMart*](https://aitimart.com/new-account/?code=1344696906597400)的存款既可以💵也可以加密货币存入。   
+> ♟️数字存管平台[*AitiMart*](https://aitimart.live/new-account/?code=1344696906597400)取得了真正的全球性成功，因为它保证所有客户[每天获得1%](../优质项目/aitimart/aitimart-calculate)的。    
+> 这项收费标准独一无二，因为[*AitiMart*](https://aitimart.live/new-account/?code=1344696906597400)的存款既可以💵也可以加密货币存入。   
 > 目前，全球尚无任何银行提供此类服务。   
 > 盈利过程绝对透明，全天候可视化。   
 > 盈利以“实时计数器”的形式2️⃣4️⃣🕑进行，其运行完全自动化，并由人工智能控制。   
 > 您可以随时几乎即时地充值或提取任意金额的🪙。   
-> [*AitiMart*](https://aitimart.com/new-account/?code=1344696906597400)的利润来自向客户发放个人贷款的收入，而贷款过程本身则是远程进行的，并由人工智能控制。  
-> 每周 7 天、每年 365 天，国际数字存储库[*AitiMart*](https://aitimart.com/new-account/?code=1344696906597400)每天向其客户支付 **1%** 的存款。   
-> 1分钟内[`注册`](https://aitimart.com/new-account/?code=1344696906597400)并立即开始赚取收入😍👍😎🤓🎉。
+> [*AitiMart*](https://aitimart.live/new-account/?code=1344696906597400)的利润来自向客户发放个人贷款的收入，而贷款过程本身则是远程进行的，并由人工智能控制。  
+> 每周 7 天、每年 365 天，国际数字存储库[*AitiMart*](https://aitimart.live/new-account/?code=1344696906597400)每天向其客户支付 **1%** 的存款。   
+> 1分钟内[`注册`](https://aitimart.live/new-account/?code=1344696906597400)并立即开始赚取收入😍👍😎🤓🎉。
 
 ### 收益概况
 1. 收益标准：1％每天 
@@ -33,7 +33,7 @@ keywords: [hyip, 高收益投资 ]
 
 
 
-### [®️立即注册](https://aitimart.com/new-account/?code=1344696906597400)
+### [®️立即注册](https://aitimart.live/new-account/?code=1344696906597400)
 
 :::note
 
@@ -52,7 +52,7 @@ keywords: [hyip, 高收益投资 ]
 
 ![](https://aitimart.live/images/main_image1.jpg)
 
-国际数字存管机构[*AitiMart*](https://aitimart.com/new-account/?code=1344696906597400)的客户存款收益资费计划为每24小时1%（每个日历日1%的利率），此计划为不可更改资费。  
+国际数字存管机构[*AitiMart*](https://aitimart.live/new-account/?code=1344696906597400)的客户存款收益资费计划为每24小时1%（每个日历日1%的利率），此计划为不可更改资费。  
 
 客户存款的收入每 24 小时累计一次 - 在上午 10:00（格林威治标准时间）累计累计过去 24 小时内客户在“AitiMart”账户中剩余的全部资金。  
 
@@ -68,13 +68,13 @@ keywords: [hyip, 高收益投资 ]
 
 ![](https://aitimart.live/images/main_image3.jpg)
 
-[*AitiMart*](https://aitimart.com/new-account/?code=1344696906597400)贷款计划的特色是可以远程获得此类个人贷款。   
+[*AitiMart*](https://aitimart.live/new-account/?code=1344696906597400)贷款计划的特色是可以远程获得此类个人贷款。   
 
 绝对任何个人都可以成为贷款计划的客户——不受国籍或居住国、当前所在地、职业和职位以及收入水平的限制。
 
-在[*AitiMart*](https://aitimart.com/new-account/?code=1344696906597400)向潜在借款人提供个人贷款的决定是根据使用人工智能的特殊程序执行的独特计算算法做出的。  
+在[*AitiMart*](https://aitimart.live/new-account/?code=1344696906597400)向潜在借款人提供个人贷款的决定是根据使用人工智能的特殊程序执行的独特计算算法做出的。  
 
-贷款利率为1.75%，期限为1个自然日。[*AitiMart*](https://aitimart.com/new-account/?code=1344696906597400)个人贷款最长期限为90个自然日。批准的贷款金额不得超过3500美元等值。
+贷款利率为1.75%，期限为1个自然日。[*AitiMart*](https://aitimart.live/new-account/?code=1344696906597400)个人贷款最长期限为90个自然日。批准的贷款金额不得超过3500美元等值。
 
 
 :::tip
@@ -86,11 +86,11 @@ keywords: [hyip, 高收益投资 ]
 ------------------------------
 
 ### 加密货币交易是如何发生的？
-国际数字存储库[*AitiMart*](https://aitimart.com/new-account/?code=1344696906597400)中的兑换交易（即使用一种加密货币向账户充值并使用另一种加密货币提取（转移）资金）是不收取佣金的操作。  
+国际数字存储库[*AitiMart*](https://aitimart.live/new-account/?code=1344696906597400)中的兑换交易（即使用一种加密货币向账户充值并使用另一种加密货币提取（转移）资金）是不收取佣金的操作。  
 
-所有兑换交易均完全按照交易时现行的[*AitiMart*](https://aitimart.com/new-account/?code=1344696906597400)加密货币买卖汇率进行。   
+所有兑换交易均完全按照交易时现行的[*AitiMart*](https://aitimart.comlive/new-account/?code=1344696906597400)加密货币买卖汇率进行。   
 
-加密货币的买卖汇率是根据交易所和交易平台的当前交易情况在国际数字存储库[*AitiMart*](https://aitimart.com/new-account/?code=1344696906597400)中设定的，并显示在客户个人账户的余额补充页面和提款页面上。
+加密货币的买卖汇率是根据交易所和交易平台的当前交易情况在国际数字存储库[*AitiMart*](https://aitimart.live/new-account/?code=1344696906597400)中设定的，并显示在客户个人账户的余额补充页面和提款页面上。
 
 
 ### 最常见问题
@@ -197,7 +197,3 @@ AITI Tech Ltd 于 2022 年在香港注册成立。作为一项项目，国际数
 
 是否可以查看国际数字存储库“AitiMart”中补充账户、提取资金或客户账户之间转账的申请处理状态？
 是的，可以。选择相应的选项后，客户可以在个人账户中追踪任何客户付款交易的状态。
-
-
-
-
